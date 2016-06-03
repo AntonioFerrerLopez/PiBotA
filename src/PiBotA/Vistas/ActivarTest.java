@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aplitest1.Vistas;
+package PiBotA.Vistas;
 
 
-import aplitest1.Controladores.ControladorGPIO;
+import PiBotA.Controladores.ControladorGPIO;
 
 import com.pi4j.io.gpio.PinState;
 import com.pi4j.io.gpio.event.GpioPinDigitalStateChangeEvent;
